@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2uistate>
+    <!--This is a UI state file - its content describes the user interface settings when the project was last open.
+It is entirely optional and the project will load without it.  If you are placing the project under source control,
+you probably do not want to add any .uistate.xml files to the repository.-->
+    <configurations>
+        <active>
+            <configuration name="HTML5" />
+        </active>
+        <display name="HTML5" />
+    </configurations>
+    <open-tabs>
+        <layout active="1" order="0">Menu</layout>
+        <layout order="2">Overworld</layout>
+        <layout order="6">BankObjet</layout>
+        <event-sheet order="1">[Menu]</event-sheet>
+        <event-sheet order="3">[Overworld]</event-sheet>
+        <event-sheet order="4">[Hero]</event-sheet>
+        <event-sheet order="5">[Ennemies]</event-sheet>
+        <event-sheet order="7">[Map]</event-sheet>
+    </open-tabs>
+    <properties>
+        <property expanded="1" name="About" />
+        <property expanded="1" name="Project settings" />
+        <property expanded="0" name="Window Size" />
+        <property expanded="1" name="Configuration Settings" />
+    </properties>
+    <families-expanded root="1">
+        <family expanded="1" name="Ennemies" />
+        <family expanded="0" name="ObjetRecoltable" />
+        <family expanded="0" name="CraftGroupe" />
+        <family expanded="0" name="BucheCraft" />
+        <family expanded="0" name="ArmorCraft" />
+        <family expanded="0" name="WeaponCraft" />
+        <family expanded="0" name="ToolCraft" />
+        <family expanded="0" name="OeilCraft" />
+        <family expanded="0" name="Attack" />
+    </families-expanded>
+    <folders-expanded>
+        <folder expanded="1" path="object-folder/" />
+        <folder expanded="0" path="object-folder/Background/" />
+        <folder expanded="0" path="object-folder/ToolBar/" />
+        <folder expanded="0" path="object-folder/Craft/" />
+        <folder expanded="1" path="object-folder/Attack/" />
+        <folder expanded="1" path="layout-folder/" />
+        <folder expanded="1" path="event-folder/" />
+        <folder expanded="1" path="file-folder/" />
+        <folder expanded="1" path="sound-folder/" />
+        <folder expanded="1" path="music-folder/" />
+        <folder expanded="0" path="file-folder/Icons/" />
+        <folder expanded="1" path="animation-folder/BarBow/" />
+        <folder expanded="1" path="animation-folder/BarHax/" />
+        <folder expanded="1" path="animation-folder/BarHoe/" />
+        <folder expanded="1" path="animation-folder/BarPickaxe/" />
+        <folder expanded="1" path="animation-folder/BarSelector/" />
+        <folder expanded="1" path="animation-folder/BarShovel/" />
+        <folder expanded="1" path="animation-folder/BarSword/" />
+        <folder expanded="1" path="animation-folder/CraftArmor/" />
+        <folder expanded="1" path="animation-folder/CraftArmorBoots/" />
+        <folder expanded="1" path="animation-folder/CraftArmorChest/" />
+        <folder expanded="1" path="animation-folder/CraftArmorHead/" />
+        <folder expanded="1" path="animation-folder/CraftArmorPants/" />
+        <folder expanded="1" path="animation-folder/CraftBuche/" />
+        <folder expanded="1" path="animation-folder/CraftBuchePlanche/" />
+        <folder expanded="1" path="animation-folder/CraftBucheStick/" />
+        <folder expanded="1" path="animation-folder/CraftOeil/" />
+        <folder expanded="1" path="animation-folder/CraftOeilArrow/" />
+        <folder expanded="1" path="animation-folder/CraftOeilEnder/" />
+        <folder expanded="1" path="animation-folder/CraftOeilPoudre/" />
+        <folder expanded="1" path="animation-folder/CraftTool/" />
+        <folder expanded="1" path="animation-folder/CraftToolHax/" />
+        <folder expanded="1" path="animation-folder/CraftToolHoe/" />
+        <folder expanded="1" path="animation-folder/CraftToolPickaxe/" />
+        <folder expanded="1" path="animation-folder/CraftToolShovel/" />
+        <folder expanded="1" path="animation-folder/CraftWeapon/" />
+        <folder expanded="1" path="animation-folder/CraftWeaponBow/" />
+        <folder expanded="1" path="animation-folder/CraftWeaponCobble/" />
+        <folder expanded="1" path="animation-folder/CraftWeaponDiamond/" />
+        <folder expanded="1" path="animation-folder/CraftWeaponIron/" />
+        <folder expanded="1" path="animation-folder/CraftWeaponWood/" />
+        <folder expanded="1" path="animation-folder/AttackCobble/" />
+        <folder expanded="1" path="animation-folder/AttackDiamond/" />
+        <folder expanded="1" path="animation-folder/AttackIron/" />
+        <folder expanded="1" path="animation-folder/AttackWood/" />
+        <folder expanded="1" path="animation-folder/AttackCobbleH/" />
+        <folder expanded="1" path="animation-folder/AttackDiamondH/" />
+        <folder expanded="1" path="animation-folder/AttackIronH/" />
+        <folder expanded="1" path="animation-folder/AttackWoodH/" />
+        <folder expanded="1" path="animation-folder/AttackInvisibleSword/" />
+        <folder expanded="1" path="animation-folder/StartText/" />
+        <folder expanded="1" path="animation-folder/Hero/" />
+        <folder expanded="1" path="animation-folder/Camera/" />
+        <folder expanded="1" path="animation-folder/Creeper/" />
+        <folder expanded="1" path="animation-folder/Zombie/" />
+        <folder expanded="1" path="animation-folder/Skelette/" />
+        <folder expanded="1" path="animation-folder/InventaireFond/" />
+        <folder expanded="1" path="animation-folder/InventaireObjet/" />
+        <folder expanded="1" path="animation-folder/TatDeTerre/" />
+        <folder expanded="1" path="animation-folder/TatDePierre/" />
+        <folder expanded="1" path="animation-folder/CraftingTableSolid/" />
+        <folder expanded="1" path="animation-folder/InventaireCraft/" />
+        <folder expanded="1" path="animation-folder/CraftingTable/" />
+        <folder expanded="1" path="animation-folder/ToolBox/" />
+        <folder expanded="1" path="animation-folder/Tree/" />
+        <folder expanded="1" path="animation-folder/TreeBuche/" />
+        <folder expanded="1" path="animation-folder/TreeFeuille/" />
+        <folder expanded="1" path="animation-folder/Sapling/" />
+        <folder expanded="1" path="animation-folder/Solid/" />
+        <folder expanded="1" path="animation-folder/SpawnZone/" />
+        <folder expanded="1" path="animation-folder/TreeAura/" />
+        <folder expanded="1" path="animation-folder/Door/" />
+        <folder expanded="1" path="animation-folder/Water/" />
+        <folder expanded="1" path="animation-folder/Logo/" />
+        <folder expanded="1" path="animation-folder/Sapling2/" />
+        <folder expanded="1" path="animation-folder/Villager/" />
+        <folder expanded="1" path="animation-folder/YouDied/" />
+        <folder expanded="1" path="animation-folder/YouDiedFond/" />
+        <folder expanded="1" path="animation-folder/RespawnButton/" />
+        <folder expanded="1" path="animation-folder/RetourButton/" />
+        <folder expanded="1" path="animation-folder/Dragon/" />
+        <folder expanded="1" path="animation-folder/TatDePierreAura/" />
+        <folder expanded="1" path="animation-folder/SpawnerZombie/" />
+        <folder expanded="1" path="animation-folder/ArmorBox/" />
+        <folder expanded="1" path="animation-folder/ArmorHead/" />
+        <folder expanded="1" path="animation-folder/ArmorChest/" />
+        <folder expanded="1" path="animation-folder/ArmorPant/" />
+        <folder expanded="1" path="animation-folder/ArmorBoot/" />
+        <folder expanded="1" path="animation-folder/Sprite3/" />
+        <folder expanded="1" path="animation-folder/CreditButton/" />
+        <folder expanded="1" path="animation-folder/Credit/" />
+        <folder expanded="1" path="animation-folder/Sprite/" />
+        <folder expanded="1" path="animation-folder/EnderMan/" />
+        <folder expanded="1" path="animation-folder/SpawnerEnderman/" />
+    </folders-expanded>
+</c2uistate>
